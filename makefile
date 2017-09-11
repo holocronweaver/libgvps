@@ -1,4 +1,4 @@
-export FP_TYPE ?= float
+export FP_TYPE ?= double
 #CC = clang-3.5
 CC = $(CROSS)gcc
 AR = $(CROSS)ar
